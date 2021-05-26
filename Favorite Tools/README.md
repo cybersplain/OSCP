@@ -1,10 +1,12 @@
+### Below is a collection of my favorite OSCP-compliant pentesting tools. I've denoted with ㉿ if the tool is part of the Kali repo.
+
 # Recon
 * [NmapAutomator](https://github.com/21y4d/nmapAutomator)
 * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 
 # Directory Fuzzing
-* [Gobuster](https://github.com/OJ/gobuster)㉿
-* [Dirsearch](https://github.com/maurosoria/dirsearch)㉿
+* [Gobuster](https://github.com/OJ/gobuster) ㉿
+* [Dirsearch](https://github.com/maurosoria/dirsearch) ㉿
 
 # Privilege Escalation
 * [Pspy](https://github.com/DominicBreuker/pspy)
@@ -16,12 +18,12 @@
 * [JuicyPotato](https://github.com/ohpe/juicy-potato)
 
 # Shells
-* [Nishang](https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1)㉿
-* [PHP-Reverse-Shell](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php)㉿
+* [Nishang](https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1) ㉿
+* [PHP-Reverse-Shell](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php) ㉿
 
 # General 
 * [Impacket](https://github.com/SecureAuthCorp/impacket)
 
 # Quality of Life
-* [Terminator](https://github.com/gnome-terminator/terminator)㉿
-* [Tmux](https://github.com/tmux/tmux/wiki)㉿
+* [Terminator](https://github.com/gnome-terminator/terminator) ㉿
+* [Tmux](https://github.com/tmux/tmux/wiki) ㉿
