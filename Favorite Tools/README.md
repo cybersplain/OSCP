@@ -23,6 +23,7 @@
 
 # General 
 * [Impacket](https://github.com/SecureAuthCorp/impacket)
+* [Sublime Text](https://www.sublimetext.com/docs/linux_repositories.html) ㉿
 
 # Quality of Life
 * [Pyenv](https://github.com/pyenv/pyenv)
