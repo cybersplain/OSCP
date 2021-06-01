@@ -33,5 +33,6 @@
 
 # Active Directory
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound)
-* [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
+* [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1) ㉿
+  * [Cheat Sheet](https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993)
 * [Mimikatz](https://github.com/gentilkiwi/mimikatz/)
