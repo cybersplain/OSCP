@@ -29,6 +29,7 @@
 * [Pyenv](https://github.com/pyenv/pyenv)
   * [Install Guide](https://www.kali.org/docs/general-use/using-eol-python-versions/)
 * [Terminator](https://github.com/gnome-terminator/terminator) ㉿
+  * [Cheatsheet](https://github.com/spabinger/terminator-cheat-sheet)
 * [Tmux](https://github.com/tmux/tmux/wiki) ㉿
 
 # Active Directory
