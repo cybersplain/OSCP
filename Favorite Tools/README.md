@@ -30,3 +30,8 @@
   * [Install Guide](https://www.kali.org/docs/general-use/using-eol-python-versions/)
 * [Terminator](https://github.com/gnome-terminator/terminator) ㉿
 * [Tmux](https://github.com/tmux/tmux/wiki) ㉿
+
+# Active Directory
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound)
+* [PowerView](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1)
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz/)
